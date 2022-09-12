@@ -13,9 +13,13 @@ El desarollo fue llevado a cabo sobre la plataforma de aplicaciones cliente Java
 El convertidor de moneda debe:
 
 Convertir de la moneda de tu país a Dólar
+
 Convertir de la moneda de tu país a Euros
+
 Convertir de la moneda de tu país a Libras Esterlinas
+
 Convertir de la moneda de tu país a Yen Japonés
+
 Convertir de la moneda de tu país a Won sul-coreano
 
 Recordando que también debe ser posible convertir inversamente, es decir:
